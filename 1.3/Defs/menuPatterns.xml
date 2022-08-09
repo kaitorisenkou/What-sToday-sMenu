@@ -52,10 +52,11 @@ Recognized by partial match.(e.g: Raw=RawRice,RawPotato,RawCorn,...)
             <li>grilledVegetable,Simple,Raw</li>
             
             <!--Fine-->
-            <li>bowl,Fine,Meat,RawRice,Egg</li>
+            <li>locoMoco,Fine,Meat,RawRice,Egg</li>
             <li>bowl,Fine,Meat,RawRice</li>
             <li>creamStew,Fine,Meat,Milk</li>
             <li>clamChowder,Fine,Fish,Milk</li>
+            <li>clamChowder,VCEF_,Fish,Milk</li>
             <li>wrapGrill,Fine,Meat,Banana</li>
             <li>boukeumBap,Fine,RawRice,Pepper,Egg</li>
             <li>chili,Fine,Meat,Pepper</li>
