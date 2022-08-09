@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>What's Today's Menu</name>
+	<author>kaitorisenkou</author>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+    <packageId>kaitorisenkou965.WhatOsHTodayOsHMenu</packageId>
+    <modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+	</loadAfter>
+	<description>
+        
+        This mod generates names based on ingredients for meals. No additional items or respies.
+        Generation rules can be edit in .xml file.
+        
+        Jul/9/2022: meal name is moved from description window to the item name
+        
+        
+        食事アイテムに対して、材料に基づいた料理名を生成します。新規アイテムやレシピの追加はありません。
+        料理名の表示法則はxmlファイルから追加・編集ができます。
+        
+        2022/7/9: 料理名は詳細ウインドウからアイテム名へと移動しました
+        
+	</description>
+</ModMetaData>
