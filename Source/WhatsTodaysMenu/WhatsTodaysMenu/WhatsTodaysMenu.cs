@@ -128,7 +128,7 @@ namespace WhatsTodaysMenu {
                                 :
                                 (meatCount > 0 ? meat.First().label.Replace("meatPreReplaced".Translate(), "meatPostReplaced".Translate()) : "")
                                 ));
-                            result[0] = char.ToUpper(result[0]);
+                            result[0] = char.ToLower(result[0]);
                             break;
                         }
                     }

@@ -1,114 +1,116 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <groundMeat>Ground Meat</groundMeat>
+    <groundMeat>mround meat</groundMeat>
     
     <!-- EX: chickin meat Bowl -> chickin Bowl-->
     <meatPreReplaced> meat</meatPreReplaced>
     <meatPostReplaced></meatPostReplaced>
 
-    <risotto>{0} Risotto</risotto>
-    <soup>{0} Soup</soup>
-    <skewers>{0} Skewers</skewers>
-    <milkPorridge>Milk Porridge</milkPorridge>
-    <vegeRisotto>Vegetable Risotto</vegeRisotto>
-    <vegeSoup>Vegetable Soup</vegeSoup>
-    <porridge>Porridge</porridge>
-    <bakedCorn>Grilled Corn</bakedCorn>
-    <bakedPotato>Baked Potato</bakedPotato>
-    <berrySause>Berry Sauce</berrySause>
-    <boiledEgg>Boiled Egg</boiledEgg>
+    <risotto>{0} risotto</risotto>
+    <soup>{0} soup</soup>
+    <skewers>{0} skewers</skewers>
+    <milkPorridge>milk porridge</milkPorridge>
+    <vegeRisotto>vegetable risotto</vegeRisotto>
+    <vegeSoup>vegetable soup</vegeSoup>
+    <porridge>porridge</porridge>
+    <bakedCorn>grilled corn</bakedCorn>
+    <bakedPotato>baked potato</bakedPotato>
+    <berrySause>berry sauce</berrySause>
+    <boiledEgg>boiled egg</boiledEgg>
     <so>So</so>
     
-    <fruitSause>Fruit Sauce</fruitSause>
-    <grilledOnion>Grilled Onion</grilledOnion>
-    <pumpkinSoup>Pumpkin Soup</pumpkinSoup>
-    <stirFriedPepper>Stir-fried Pepper</stirFriedPepper>
-    <grilledEggplant>Grilled Eggplant</grilledEggplant>
-    <shreddedCabbage>Shredded Cabbage</shreddedCabbage>
-    <simpleBorscht>Simple Borscht</simpleBorscht>
-    <tomatoSoup>Tomato Soup</tomatoSoup>
-    <grilledApple>Grilled Apple</grilledApple>
-    <grilledBanana>Grilled Banana</grilledBanana>
-    <grilledVegetable>Grilled Vegetable</grilledVegetable>
-    <boiledBeans>Boiled Beans</boiledBeans>
+    <fruitSause>fruit sauce</fruitSause>
+    <grilledOnion>grilled onion</grilledOnion>
+    <pumpkinSoup>pumpkin soup</pumpkinSoup>
+    <stirFriedPepper>stir-fried pepper</stirFriedPepper>
+    <grilledEggplant>grilled eggplant</grilledEggplant>
+    <shreddedCabbage>shredded cabbage</shreddedCabbage>
+    <simpleBorscht>simple borscht</simpleBorscht>
+    <tomatoSoup>tomato soup</tomatoSoup>
+    <grilledApple>grilled apple</grilledApple>
+    <grilledBanana>grilled banana</grilledBanana>
+    <grilledVegetable>grilled vegetable</grilledVegetable>
+    <boiledBeans>boiled beans</boiledBeans>
 
-    <fishSkewers>Fish Skewers</fishSkewers>
-    <fishSoup>Fish Soup</fishSoup>
-    <smoothie>Smoothie</smoothie>
+    <fishSkewers>fish Skewers</fishSkewers>
+    <fishSoup>fish Soup</fishSoup>
+    <smoothie>smoothie</smoothie>
     
-    <fungusSkewers>Fungus Skewers</fungusSkewers>
+    <fungusSkewers>fungus skewers</fungusSkewers>
     
-    <polenta>Polenta</polenta>
+    <polenta>polenta</polenta>
+    
+    <cutWatermelon>cut watermelon</cutWatermelon>
     
     <!--Fine-->
-    <bowl>{0} Bowl</bowl>
-    <creamStew>{0} Cream Stew</creamStew>
-    <bbq>{0} Barbeque Skewers</bbq>
-    <stew>{0} Stew</stew>
-    <cheeseRisotto>Cheese Risotto</cheeseRisotto>
-    <omelette>Omelette</omelette>
-    <multigrain>Cooked Multigrain Rice</multigrain>
-    <rice>Cooked Rice</rice>
-    <bread>Corn Bread</bread>
-    <pottage>Pottage</pottage>
-    <jamBread>Corn Bread With Jam</jamBread>
-    <cornFlakes>Corn Flakes</cornFlakes>
-    <potatoButter>Potato With Butter</potatoButter>
-    <cornSoup>Corn Soup</cornSoup>
-    <frenchFries>French Fries</frenchFries>
-    <berryJam>Berry Jam</berryJam>
-    <friedEgg>Fried Egg</friedEgg>
-    <cheese>Cheese</cheese>
+    <bowl>{0} bowl</bowl>
+    <creamStew>{0} cream stew</creamStew>
+    <bbq>{0} barbeque skewers</bbq>
+    <stew>{0} stew</stew>
+    <cheeseRisotto>cheese risotto</cheeseRisotto>
+    <omelette>omelette</omelette>
+    <multigrain>cooked multigrain rice</multigrain>
+    <rice>cooked rice</rice>
+    <bread>corn bread</bread>
+    <pottage>pottage</pottage>
+    <jamBread>corn bread with jam</jamBread>
+    <cornFlakes>corn flakes</cornFlakes>
+    <potatoButter>potato with butter</potatoButter>
+    <cornSoup>corn soup</cornSoup>
+    <frenchFries>french fries</frenchFries>
+    <berryJam>berry jam</berryJam>
+    <friedEgg>fried egg</friedEgg>
+    <cheese>cheese</cheese>
     
-    <maboTofu>Mabo Tofu</maboTofu>
-    <fruitJam>Fruit Jam</fruitJam>
-    <onionSoup>Onion Soup</onionSoup>
-    <borscht>Borscht</borscht>
-    <sauerkraut>Sauerkraut</sauerkraut>
-    <tofu>Tofu</tofu>
-    <vegeStew>Vegetable Stew</vegeStew>
+    <maboTofu>mabo tofu</maboTofu>
+    <fruitJam>fruit jam</fruitJam>
+    <onionSoup>onion soup</onionSoup>
+    <borscht>borscht</borscht>
+    <sauerkraut>sauerkraut</sauerkraut>
+    <tofu>tofu</tofu>
+    <vegeStew>vegetable stew</vegeStew>
     
-    <clamChowder>Clam Chowder</clamChowder>
-    <fishSet>Grilled Fish Set Meal</fishSet>
-    <fishNChips>Fish And Chips</fishNChips>
-    <fishTeriyaki>Teriyaki Fish</fishTeriyaki>
-    <wrapGrill>Wrapped Grilled {0}</wrapGrill>
+    <clamChowder>clam chowder</clamChowder>
+    <fishSet>grilled fish set meal</fishSet>
+    <fishNChips>fish and chips</fishNChips>
+    <fishTeriyaki>teriyaki fish</fishTeriyaki>
+    <wrapGrill>wrapped grilled {0}</wrapGrill>
     
-    <chili>Chili</chili>
-    <fungusSoup>Mushroom Soup</fungusSoup>
+    <chili>chili</chili>
+    <fungusSoup>mushroom soup</fungusSoup>
     
-    <boukeumBap>Kimchi Boukeum-Bap</boukeumBap>
-    <coleslaw>Coleslaw</coleslaw>
-    <minestrone>Minestrone</minestrone>
-    <chickenWings>Chicken Wings</chickenWings>
-    <locoMoco>{0} Loco moco</locoMoco>
-    <quiche>Quiche</quiche>
+    <boukeumBap>kimchi boukeum-bap</boukeumBap>
+    <coleslaw>coleslaw</coleslaw>
+    <minestrone>minestrone</minestrone>
+    <chickenWings>chicken wings</chickenWings>
+    <locoMoco>{0} loco moco</locoMoco>
+    <quiche>quiche</quiche>
 
     <!--Lavish-->
-    <steakSetMeal>{0} Steak Set Meal</steakSetMeal>
-    <hamburger>Hamburger</hamburger>
-    <taco>Taco</taco>
-    <steak>{0} Steak</steak>
-    <fruitMochi>Fruit Mochi</fruitMochi>
-    <riceCake>Rice Cake</riceCake>
-    <cake>Cake</cake>
-    <pizza>Pizza</pizza>
-    <popcorn>Popcorn</popcorn>
-    <potatoChips>Potato Chips</potatoChips>
-    <fruitSalad>Fruit Salad</fruitSalad>
-    <rolledOmelette>Japanese Rolled Omelette</rolledOmelette>
-    <milkCandy>Milk Candy</milkCandy>
+    <steakSetMeal>{0} steak set meal</steakSetMeal>
+    <hamburger>hamburger</hamburger>
+    <taco>taco</taco>
+    <steak>{0} steak</steak>
+    <fruitMochi>fruit mochi</fruitMochi>
+    <riceCake>rice cake</riceCake>
+    <cake>cake</cake>
+    <pizza>pizza</pizza>
+    <popcorn>popcorn</popcorn>
+    <potatoChips>potato chips</potatoChips>
+    <fruitSalad>fruit salad</fruitSalad>
+    <rolledOmelette>japanese rolled omelette</rolledOmelette>
+    <milkCandy>milk candy</milkCandy>
     
-    <kastudon>Katsudon</kastudon>
-    <winner>Chicken Dinner</winner>
-    <tonkatsu>Tonkatsu</tonkatsu>
-    <fruitYogurt>Fruit Yogurt</fruitYogurt>
-    <salad>Salad</salad>
+    <kastudon>katsudon</kastudon>
+    <winner>chicken dinner</winner>
+    <tonkatsu>tonkatsu</tonkatsu>
+    <fruitYogurt>fruit yogurt</fruitYogurt>
+    <salad>salad</salad>
     
-    <sushi>Sushi</sushi>
-    <sashimi>Sashimi</sashimi>
+    <sushi>sushi</sushi>
+    <sashimi>sashimi</sashimi>
     
-    <loaf>Meat Loaf</loaf>
-    <coqAuVin>Coq Au Vin</coqAuVin>
+    <loaf>meat loaf</loaf>
+    <coqAuVin>coq au vin</coqAuVin>
 
 </LanguageData>

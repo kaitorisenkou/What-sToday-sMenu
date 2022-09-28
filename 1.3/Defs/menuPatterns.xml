@@ -25,6 +25,7 @@ Recognized by partial match.(e.g: Raw=RawRice,RawPotato,RawCorn,...)
             <li>fishSkewers,Simple,Fish</li>
             <li>fishSkewers,Simple,VCEF_</li>
             <li>fungusSkewers,Simple,Fungus</li>
+            <li>cutWatermelon,Simple,watermelon</li>
             <li>fruitSause,Simple,Peach</li>
             <li>fruitSause,Simple,Cherry</li>
             <li>fruitSause,Simple,Plum</li>
@@ -32,6 +33,11 @@ Recognized by partial match.(e.g: Raw=RawRice,RawPotato,RawCorn,...)
             <li>fruitSause,Simple,Pear</li>
             <li>fruitSause,Simple,berry</li>
             <li>fruitSause,Simple,Orange</li>
+            <li>fruitSause,Simple,grape</li>
+            <li>fruitSause,Simple,pine</li>
+            <li>fruitSause,Simple,date</li>
+            <li>fruitSause,Simple,fig</li>
+            <li>fruitSause,Simple,cherry</li>
             <li>vegeSoup,Simple,Raw,Raw</li>
             <li>porridge,Simple,RawRice</li>
             <li>bakedCorn,Simple,RawCorn</li>
@@ -88,6 +94,11 @@ Recognized by partial match.(e.g: Raw=RawRice,RawPotato,RawCorn,...)
             <li>jamBread,Fine,RawCorn,berry</li>
             <li>jamBread,Fine,RawCorn,Banana</li>
             <li>jamBread,Fine,RawCorn,Orange</li>
+            <li>jamBread,Fine,RawCorn,grape</li>
+            <li>jamBread,Fine,RawCorn,pine</li>
+            <li>jamBread,Fine,RawCorn,date</li>
+            <li>jamBread,Fine,RawCorn,fig</li>
+            <li>jamBread,Fine,RawCorn,cherry</li>
             <li>cornFlakes,Fine,RawCorn,Milk</li>
             <li>cornSoup,Fine,RawCorn</li>
             <li>potatoButter,Fine,RawPotato,Milk</li>
@@ -102,6 +113,11 @@ Recognized by partial match.(e.g: Raw=RawRice,RawPotato,RawCorn,...)
             <li>fruitJam,Fine,berry</li>
             <li>fruitJam,Fine,Banana</li>
             <li>fruitJam,Fine,Orange</li>
+            <li>fruitJam,Fine,grape</li>
+            <li>fruitJam,Fine,pine</li>
+            <li>fruitJam,Fine,date</li>
+            <li>fruitJam,Fine,fig</li>
+            <li>fruitJam,Fine,cherry</li>
             <li>onionSoup,Fine,Onion</li> 
             <li>borscht,Fine,Beets</li>
             <li>coleslaw,Fine,Cabbage,Egg</li>
@@ -136,6 +152,11 @@ Recognized by partial match.(e.g: Raw=RawRice,RawPotato,RawCorn,...)
             <li>fruitMochi,Lavish,RawRice,berry</li>
             <li>fruitMochi,Lavish,RawRice,Banana</li>
             <li>fruitMochi,Lavish,RawRice,Orange</li>
+            <li>fruitMochi,Lavish,RawRice,grape</li>
+            <li>fruitMochi,Lavish,RawRice,pine</li>
+            <li>fruitMochi,Lavish,RawRice,date</li>
+            <li>fruitMochi,Lavish,RawRice,fig</li>
+            <li>fruitMochi,Lavish,RawRice,cherry</li>
             <li>riceCake,Lavish,RawRice</li>
             <li>cake,Lavish,RawCorn,Milk,Egg</li>
             <li>pizza,Lavish,RawCorn,Milk</li>
@@ -151,6 +172,11 @@ Recognized by partial match.(e.g: Raw=RawRice,RawPotato,RawCorn,...)
             <li>fruitYogurt,Lavish,berry,Milk</li>
             <li>fruitYogurt,Lavish,Banana,Milk</li>
             <li>fruitYogurt,Lavish,Orange,Milk</li>
+            <li>fruitYogurt,Lavish,grape,Milk</li>
+            <li>fruitYogurt,Lavish,pine,Milk</li>
+            <li>fruitYogurt,Lavish,date,Milk</li>
+            <li>fruitYogurt,Lavish,fig,Milk</li>
+            <li>fruitYogurt,Lavish,cherry,Milk</li>
             <li>fruitSalad,Lavish,RawBerries</li>
             <li>fruitSalad,Lavish,Apple</li>
             <li>fruitSalad,Lavish,Peach</li>
@@ -161,6 +187,11 @@ Recognized by partial match.(e.g: Raw=RawRice,RawPotato,RawCorn,...)
             <li>fruitSalad,Lavish,berry</li>
             <li>fruitSalad,Lavish,Banana</li>
             <li>fruitSalad,Lavish,Orange</li>
+            <li>fruitSalad,Lavish,grape</li>
+            <li>fruitSalad,Lavish,pine</li>
+            <li>fruitSalad,Lavish,date</li>
+            <li>fruitSalad,Lavish,fig</li>
+            <li>fruitSalad,Lavish,cherry</li>
             <li>rolledOmelette,Lavish,Egg</li>
             <li>milkCandy,Lavish,Milk</li>
             <li>salad,Lavish,Raw</li>
