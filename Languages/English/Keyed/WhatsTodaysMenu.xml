@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <groundMeat>mround meat</groundMeat>
+    <groundMeat>Ground meat</groundMeat>
     
     <!-- EX: chickin meat Bowl -> chickin Bowl-->
     <meatPreReplaced> meat</meatPreReplaced>
