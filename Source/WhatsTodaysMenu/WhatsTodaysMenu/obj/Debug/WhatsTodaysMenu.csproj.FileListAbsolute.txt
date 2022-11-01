@@ -1,6 +1,0 @@
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\WhatsTodaysMenu\Source\Assembly\WhatsTodaysMenu.dll
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\WhatsTodaysMenu\Source\WhatsTodaysMenu\WhatsTodaysMenu\obj\Debug\WhatsTodaysMenu.csprojAssemblyReference.cache
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\WhatsTodaysMenu\Source\WhatsTodaysMenu\WhatsTodaysMenu\obj\Debug\WhatsTodaysMenu.csproj.CoreCompileInputs.cache
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\WhatsTodaysMenu\Source\WhatsTodaysMenu\WhatsTodaysMenu\obj\Debug\WhatsTodaysMenu.dll
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\WhatsTodaysMenu\Source\Assemblies\WhatsTodaysMenu.dll
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\WhatsTodaysMenu\Source\WhatsTodaysMenu\WhatsTodaysMenu\obj\Debug\WhatsTodaysMenu.csproj.CopyComplete
