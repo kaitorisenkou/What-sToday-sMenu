@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName="MealSimple"]/comps</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="MealSimple"]</xpath>
+      <value>
+        <comps>
+          <li Class="WhatsTodaysMenu.CompProperties_TodaysMenu">
+            <mealRank>simple</mealRank>
+          </li>
+        </comps>
+      </value>
+    </nomatch>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="MealSimple"]/comps</xpath>
+      <order>Prepend</order>
+      <value>
+        <li Class="WhatsTodaysMenu.CompProperties_TodaysMenu">
+          <mealRank>simple</mealRank>
+        </li>
+      </value>
+    </match>
+  </Operation>
+  
+  
+  
+  
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName="MealFine"]/comps</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="MealFine"]</xpath>
+      <value>
+        <comps>
+          <li Class="WhatsTodaysMenu.CompProperties_TodaysMenu">
+            <mealRank>fine</mealRank>
+          </li>
+        </comps>
+      </value>
+    </nomatch>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="MealFine"]/comps</xpath>
+      <order>Prepend</order>
+      <value>
+        <li Class="WhatsTodaysMenu.CompProperties_TodaysMenu">
+          <mealRank>fine</mealRank>
+        </li>
+      </value>
+    </match>
+  </Operation>
+  
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName="MealFine_Veg"]/comps</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="MealFine_Veg"]</xpath>
+      <value>
+        <comps>
+          <li Class="WhatsTodaysMenu.CompProperties_TodaysMenu">
+            <mealRank>fine</mealRank>
+          </li>
+        </comps>
+      </value>
+    </nomatch>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="MealFine_Veg"]/comps</xpath>
+      <order>Prepend</order>
+      <value>
+        <li Class="WhatsTodaysMenu.CompProperties_TodaysMenu">
+          <mealRank>fine</mealRank>
+        </li>
+      </value>
+    </match>
+  </Operation>
+  
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName="MealFine_Meat"]/comps</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="MealFine_Meat"]</xpath>
+      <value>
+        <comps>
+          <li Class="WhatsTodaysMenu.CompProperties_TodaysMenu">
+            <mealRank>fine</mealRank>
+          </li>
+        </comps>
+      </value>
+    </nomatch>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="MealFine_Meat"]/comps</xpath>
+      <order>Prepend</order>
+      <value>
+        <li Class="WhatsTodaysMenu.CompProperties_TodaysMenu">
+          <mealRank>fine</mealRank>
+        </li>
+      </value>
+    </match>
+  </Operation>
+  
+  
+  
+  
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName="MealLavish"]/comps</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="MealLavish"]</xpath>
+      <value>
+        <comps>
+          <li Class="WhatsTodaysMenu.CompProperties_TodaysMenu">
+            <mealRank>lavish</mealRank>
+          </li>
+        </comps>
+      </value>
+    </nomatch>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="MealLavish"]/comps</xpath>
+      <order>Prepend</order>
+      <value>
+        <li Class="WhatsTodaysMenu.CompProperties_TodaysMenu">
+          <mealRank>lavish</mealRank>
+        </li>
+      </value>
+    </match>
+  </Operation>
+  
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName="MealLavish_Veg"]/comps</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="MealLavish_Veg"]</xpath>
+      <value>
+        <comps>
+          <li Class="WhatsTodaysMenu.CompProperties_TodaysMenu">
+            <mealRank>lavish</mealRank>
+          </li>
+        </comps>
+      </value>
+    </nomatch>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="MealLavish_Veg"]/comps</xpath>
+      <order>Prepend</order>
+      <value>
+        <li Class="WhatsTodaysMenu.CompProperties_TodaysMenu">
+          <mealRank>lavish</mealRank>
+        </li>
+      </value>
+    </match>
+  </Operation>
+  
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName="MealLavish_Meat"]/comps</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="MealLavish_Meat"]</xpath>
+      <value>
+        <comps>
+          <li Class="WhatsTodaysMenu.CompProperties_TodaysMenu">
+            <mealRank>lavish</mealRank>
+          </li>
+        </comps>
+      </value>
+    </nomatch>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="MealLavish_Meat"]/comps</xpath>
+      <order>Prepend</order>
+      <value>
+        <li Class="WhatsTodaysMenu.CompProperties_TodaysMenu">
+          <mealRank>lavish</mealRank>
+        </li>
+      </value>
+    </match>
+  </Operation>
+</Patch>

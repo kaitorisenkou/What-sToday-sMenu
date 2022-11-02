@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="MeatIngredientCategoryBase">
+    <defName>Category_Pork</defName>
+    <ingredientsPartialMatch>
+      <li>Meat_Pig</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>Kastudon</defName>
+    <label>katsudon</label>
+    <priority>1000</priority>
+    <mainIngredient>Category_Pork</mainIngredient>
+    <ingredients>
+      <li>Category_Rice</li>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>Tonkatsu</defName>
+    <label>tonkatsu</label>
+    <priority>1000</priority>
+    <mainIngredient>Category_Pork</mainIngredient>
+    <ingredients>
+      <li>Category_Cabbage</li>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  
+  
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="MeatIngredientCategoryBase">
+    <defName>Category_Chicken</defName>
+    <ingredientsPartialMatch>
+      <li>Meat_Chicken</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>CoqAuVin</defName>
+    <label>coq au vin</label>
+    <priority>1000</priority>
+    <mainIngredient>Category_Chicken</mainIngredient>
+    <ingredients>
+      <li>Category_Onion</li>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>Winner</defName>
+    <label>chicken dinner</label>
+    <priority>900</priority>
+    <mainIngredient>Category_Chicken</mainIngredient>
+    <ingredients>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>Lasagna</defName>
+    <label>lasagna</label>
+    <priority>1000</priority>
+    <mainIngredient>Category_Fungus</mainIngredient>
+    <ingredients>
+      <li>Category_Milk</li>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>Cake</defName>
+    <label>/ingredient cake</label>
+    <priority>1000</priority>
+    <mainIngredient>Category_Fruit</mainIngredient>
+    <ingredients>
+      <li>Category_Milk</li>
+      <li>Category_Egg</li>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>FruitYogurt</defName>
+    <label>/ingredient yogurt</label>
+    <priority>900</priority>
+    <mainIngredient>Category_Fruit</mainIngredient>
+    <ingredients>
+      <li>Category_Milk</li>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>Pizza</defName>
+    <label>pizza</label>
+    <priority>1000</priority>
+    <mainIngredient>Category_Corn</mainIngredient>
+    <ingredients>
+      <li>Category_Milk</li>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>SteakSetMeal</defName>
+    <label>/ingredient steak set meal</label>
+    <priority>500</priority>
+    <mainIngredient>Category_MeatGroundable</mainIngredient>
+    <ingredients>
+      <li>Category_Rice</li>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>Taco</defName>
+    <label>taco</label>
+    <priority>500</priority>
+    <mainIngredient>Category_MeatGroundable</mainIngredient>
+    <ingredients>
+      <li>Category_Corn</li>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>Sushi</defName>
+    <label>/ingredient sushi</label>
+    <priority>500</priority>
+    <mainIngredient>Category_Fish</mainIngredient>
+    <ingredients>
+      <li>Category_Rice</li>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>FruitMochi</defName>
+    <label>/ingredient mochi</label>
+    <priority>500</priority>
+    <mainIngredient>Category_Fruit</mainIngredient>
+    <ingredients>
+      <li>Category_Rice</li>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>Steak</defName>
+    <label>/ingredient steak</label>
+    <priority>200</priority>
+    <mainIngredient>Category_MeatGroundable</mainIngredient>
+    <ingredients>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>Loaf</defName>
+    <label>meat loaf</label>
+    <priority>300</priority>
+    <mainIngredient>Category_MeatGroundable</mainIngredient>
+    <ingredients>
+      <li>Category_VegetableAll</li>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>Sashimi</defName>
+    <label>/ingredient sashimi</label>
+    <priority>300</priority>
+    <mainIngredient>Category_Fish</mainIngredient>
+    <ingredients>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>RiceCake</defName>
+    <label>rice cake</label>
+    <priority>0</priority>
+    <mainIngredient>Category_Rice</mainIngredient>
+    <ingredients>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>Popcorn</defName>
+    <label>popcorn</label>
+    <priority>0</priority>
+    <mainIngredient>Category_Corn</mainIngredient>
+    <ingredients>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>PotatoChips</defName>
+    <label>potato chips</label>
+    <priority>0</priority>
+    <mainIngredient>Category_Potatoes</mainIngredient>
+    <ingredients>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>MilkCandy</defName>
+    <label>milk candy</label>
+    <priority>0</priority>
+    <mainIngredient>Category_Milk</mainIngredient>
+    <ingredients>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>RolledOmelette</defName>
+    <label>japanese rolled omelette</label>
+    <priority>0</priority>
+    <mainIngredient>Category_Egg</mainIngredient>
+    <ingredients>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>FruitSalad</defName>
+    <label>/ingredient salad</label>
+    <priority>0</priority>
+    <mainIngredient>Category_Fruit</mainIngredient>
+    <ingredients>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>Salad</defName>
+    <label>/ingredient salad</label>
+    <priority>0</priority>
+    <mainIngredient>Category_VegetableAll</mainIngredient>
+    <ingredients>
+    </ingredients>
+    <mealRank>lavish</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+</Defs>

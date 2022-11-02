@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+  <!--     Vegetable    -->
+  <WhatsTodaysMenu.IngredientCategoryDef Name="PlantIngredientCategoryBase" Abstract="True">
+    <replaceProperties>
+      <li>
+        <wordPreReplace>raw</wordPreReplace><!--translated by Keyed-->
+        <wordPostReplace></wordPostReplace>
+      </li>
+    </replaceProperties>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="PlantIngredientCategoryBase">
+    <defName>Category_Rice</defName>
+    <ingredientsPartialMatch>
+      <li>Rice</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="PlantIngredientCategoryBase">
+    <defName>Category_Potatoes</defName>
+    <ingredientsPartialMatch>
+      <li>Potatoes</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="PlantIngredientCategoryBase">
+    <defName>Category_Corn</defName>
+    <ingredientsPartialMatch>
+      <li>Corn</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="PlantIngredientCategoryBase">
+    <defName>Category_Fungus</defName>
+    <ingredientsPartialMatch>
+      <li>Fungus</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="PlantIngredientCategoryBase">
+    <defName>Category_Pepper</defName>
+    <ingredientsPartialMatch>
+      <li>Pepper</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="PlantIngredientCategoryBase">
+    <defName>Category_Eggplant</defName>
+    <ingredientsPartialMatch>
+      <li>Eggplant</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="PlantIngredientCategoryBase">
+    <defName>Category_Beets</defName>
+    <ingredientsPartialMatch>
+      <li>Beets</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="PlantIngredientCategoryBase">
+    <defName>Category_Peas</defName>
+    <ingredientsPartialMatch>
+      <li>Peas</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="PlantIngredientCategoryBase">
+    <defName>Category_Onion</defName>
+    <ingredientsPartialMatch>
+      <li>Onion</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="PlantIngredientCategoryBase">
+    <defName>Category_Cabbage</defName>
+    <ingredientsPartialMatch>
+      <li>Cabbage</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="PlantIngredientCategoryBase">
+    <defName>Category_Fruit</defName>
+    <ingredientsPartialMatch>
+      <li>Berries</li>
+      <li>Peach</li>
+      <li>Cherry</li>
+      <li>Plum</li>
+      <li>Prune</li>
+      <li>Pear</li>
+      <li>berry</li>
+      <li>Orange</li>
+      <li>grape</li>
+      <li>pine</li>
+      <li>date</li>
+      <li>fig</li>
+      <li>cherry</li>
+      <li>watermelon</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="PlantIngredientCategoryBase">
+    <defName>Category_VegetableAll</defName>
+    <ingredientsPartialMatch>
+      <li>Raw</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  
+  
+  
+  
+  <!--     Meat    -->
+  <WhatsTodaysMenu.IngredientCategoryDef Name="MeatIngredientCategoryBase" Abstract="True">
+    <replaceProperties>
+      <li>
+        <wordPreReplace>meat</wordPreReplace>
+        <wordPostReplace>meatPost</wordPostReplace>
+      </li>
+      <li>
+        <wordPreReplace>cow</wordPreReplace>
+        <wordPostReplace>cowPost</wordPostReplace>
+      </li>
+    </replaceProperties>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="MeatIngredientCategoryBase">
+    <defName>Category_MeatSingle</defName>
+    <ingredientsPartialMatch>
+      <li>Meat</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="MeatIngredientCategoryBase">
+    <defName>Category_MeatGroundable</defName>
+    <ingredientsPartialMatch>
+      <li>Meat</li>
+    </ingredientsPartialMatch>
+    <duplicatedLabel>ground meat</duplicatedLabel>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  
+  
+  
+  
+  <!--    fish    -->
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="MeatIngredientCategoryBase">
+    <defName>Category_Fish</defName>
+    <ingredientsPartialMatch>
+      <li>VCEF_</li>
+      <li>fish</li>
+      <li>Fish</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  
+  
+  
+  
+  <!--     Other    -->
+  <WhatsTodaysMenu.IngredientCategoryDef>
+    <defName>Category_Milk</defName>
+    <ingredientsPartialMatch>
+      <li>Milk</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  
+  <WhatsTodaysMenu.IngredientCategoryDef>
+    <defName>Category_Egg</defName>
+    <ingredientsPartialMatch>
+      <li>Egg</li>
+    </ingredientsPartialMatch>
+    <replaceProperties>
+      <li>
+        <wordPreReplace>unfert</wordPreReplace>
+        <wordPostReplace></wordPostReplace>
+      </li>
+      <li>
+        <wordPreReplace>fert</wordPreReplace>
+        <wordPostReplace></wordPostReplace>
+      </li>
+    </replaceProperties>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+</Defs>

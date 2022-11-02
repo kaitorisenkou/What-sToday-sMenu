@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Porridge.label>お粥</Porridge.label>
+  <PorridgeMilk.label>ミルク粥</PorridgeMilk.label>
+  <RisottoMeat.label>/ingredientリゾット</RisottoMeat.label>
+  <Polenta.label>ポレンタ</Polenta.label>
+  <Smoothie.label>/ingredientスムージー</Smoothie.label>
+  <So.label>蘇</So.label>
+  <BoiledEgg.label>ゆで卵</BoiledEgg.label>
+  <Soup.label>/ingredientスープ</Soup.label>
+  <BakeSimple.label>焼き/ingredient</BakeSimple.label>
+  <BoilSimple.label>茹で/ingredient</BoilSimple.label>
+  <SoupMeat.label>/ingredientスープ</SoupMeat.label>
+  <SkewersMeat.label>串焼き/ingredient</SkewersMeat.label>
+  <SoupFungus.label>/ingredientスープ</SoupFungus.label>
+  <SkewersFungus.label>串焼き/ingredient</SkewersFungus.label>
+  <SoupFish.label>/ingredientスープ</SoupFish.label>
+  <SkewersFish.label>串焼き/ingredient</SkewersFish.label>
+  <SoupVege.label>/ingredientスープ</SoupVege.label>
+</LanguageData>

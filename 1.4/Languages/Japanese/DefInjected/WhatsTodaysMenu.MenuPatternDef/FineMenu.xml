@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <LocoMoco.label>/ingredientロコモコ丼</LocoMoco.label>
+  <Bowl.label>/ingredient丼</Bowl.label>
+  <CheeseRisotto.label>チーズリゾット</CheeseRisotto.label>
+  <Omelette.label>オムライス</Omelette.label>
+  <!--Multigrain.label>雑穀ごはん</Multigrain.label-->
+  <CookedRice.label>ごはん</CookedRice.label>
+  <JamBread.label>コーンブレッドと/ingredientジャム</JamBread.label>
+  <CornFlakes.label>コーンフレーク</CornFlakes.label>
+  <Pottage.label>コーンポタージュ</Pottage.label>
+  <PotatoButter.label>じゃがバター</PotatoButter.label>
+  <FrenchFries.label>フライドポテト</FrenchFries.label>
+  <FishSet.label>焼き/ingredient定食</FishSet.label>
+  <FishNChips.label>フィッシュアンドチップス</FishNChips.label>
+  <FishTeriyaki.label>/ingredientの照り焼き</FishTeriyaki.label>
+  <CreamStew.label>/ingredientクリームシチュー</CreamStew.label>
+  <ClamChowder.label>クラムチャウダー</ClamChowder.label>
+  <Stew.label>/ingredientシチュー</Stew.label>
+  <BoukeumBap.label>ビビンバ</BoukeumBap.label>
+  <Chili.label>チリコンカーン</Chili.label>
+  <MaboTofu.label>麻婆豆腐</MaboTofu.label>
+  <WrapGrill.label>包み焼き/ingredient</WrapGrill.label>
+  <Quiche.label>キッシュ</Quiche.label>
+  <Coleslaw.label>コールスロー</Coleslaw.label>
+  <Sauerkraut.label>サワークラウト</Sauerkraut.label>
+  <OnionSoup.label>オニオンスープ</OnionSoup.label>
+  <Borscht.label>ボルシチ</Borscht.label>
+  <FungusSoup.label>/ingredientスープ</FungusSoup.label>
+  <FruitJam.label>/ingredientジャム</FruitJam.label>
+  <Tofu.label>豆腐</Tofu.label>
+  <FriedEgg.label>目玉焼き</FriedEgg.label>
+  <Cheese.label>チーズ</Cheese.label>
+  <VegeStew.label>野菜シチュー</VegeStew.label>
+</LanguageData>

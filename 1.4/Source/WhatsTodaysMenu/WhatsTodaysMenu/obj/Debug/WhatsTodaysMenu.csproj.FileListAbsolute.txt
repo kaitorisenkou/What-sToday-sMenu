@@ -1,0 +1,15 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\WhatsTodaysMenu\Source\Assembly\WhatsTodaysMenu.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\WhatsTodaysMenu\Source\WhatsTodaysMenu\WhatsTodaysMenu\obj\Debug\WhatsTodaysMenu.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\WhatsTodaysMenu\Source\WhatsTodaysMenu\WhatsTodaysMenu\obj\Debug\WhatsTodaysMenu.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\WhatsTodaysMenu\Source\WhatsTodaysMenu\WhatsTodaysMenu\obj\Debug\WhatsTodaysMenu.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\WhatsTodaysMenu\Source\Assemblies\WhatsTodaysMenu.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\WhatsTodaysMenu\Source\WhatsTodaysMenu\WhatsTodaysMenu\obj\Debug\WhatsTodaysMenu.csproj.CopyComplete
+C:\Users\kaich\Documents\Rimworld_mods\creation\WhatsTodaysMenu\Source\Assemblies\WhatsTodaysMenu.dll
+C:\Users\kaich\Documents\Rimworld_mods\creation\WhatsTodaysMenu\Source\WhatsTodaysMenu\WhatsTodaysMenu\obj\Debug\WhatsTodaysMenu.csprojAssemblyReference.cache
+C:\Users\kaich\Documents\Rimworld_mods\creation\WhatsTodaysMenu\Source\WhatsTodaysMenu\WhatsTodaysMenu\obj\Debug\WhatsTodaysMenu.csproj.CoreCompileInputs.cache
+C:\Users\kaich\Documents\Rimworld_mods\creation\WhatsTodaysMenu\Source\WhatsTodaysMenu\WhatsTodaysMenu\obj\Debug\WhatsTodaysMenu.csproj.CopyComplete
+C:\Users\kaich\Documents\Rimworld_mods\creation\WhatsTodaysMenu\Source\WhatsTodaysMenu\WhatsTodaysMenu\obj\Debug\WhatsTodaysMenu.dll
+C:\Users\kaich\Documents\Rimworld_mods\creation\WhatsTodaysMenu\1.4\Source\Assemblies\WhatsTodaysMenu.dll
+C:\Users\kaich\Documents\Rimworld_mods\creation\WhatsTodaysMenu\1.4\Source\WhatsTodaysMenu\WhatsTodaysMenu\obj\Debug\WhatsTodaysMenu.csprojAssemblyReference.cache
+C:\Users\kaich\Documents\Rimworld_mods\creation\WhatsTodaysMenu\1.4\Source\WhatsTodaysMenu\WhatsTodaysMenu\obj\Debug\WhatsTodaysMenu.csproj.CoreCompileInputs.cache
+C:\Users\kaich\Documents\Rimworld_mods\creation\WhatsTodaysMenu\1.4\Source\WhatsTodaysMenu\WhatsTodaysMenu\obj\Debug\WhatsTodaysMenu.dll

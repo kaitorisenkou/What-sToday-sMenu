@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>Porridge</defName>
+    <label>porridge</label>
+    <priority>100</priority>
+    <mainIngredient>Category_Rice</mainIngredient>
+    <ingredients></ingredients>
+    <mealRank>simple</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>PorridgeMilk</defName>
+    <label>milk porridge</label>
+    <priority>200</priority>
+    <mainIngredient>Category_Rice</mainIngredient>
+    <ingredients>
+      <li>Category_Milk</li>
+    </ingredients>
+    <mealRank>simple</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>RisottoMeat</defName>
+    <label>/ingredient risotto</label>
+    <priority>200</priority>
+    <mainIngredient>Category_MeatSingle</mainIngredient>
+    <ingredients>
+      <li>Category_Rice</li>
+    </ingredients>
+    <mealRank>simple</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>Polenta</defName>
+    <label>polenta</label>
+    <priority>200</priority>
+    <mainIngredient>Category_Potatoes</mainIngredient>
+    <ingredients>
+      <li>Category_MeatSingle</li>
+    </ingredients>
+    <mealRank>simple</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>Smoothie</defName>
+    <label>/ingredient smoothie</label>
+    <priority>0</priority>
+    <mainIngredient>Category_Fruit</mainIngredient>
+    <ingredients></ingredients>
+    <mealRank>simple</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>So</defName>
+    <label>ancient cheese</label>
+    <priority>0</priority>
+    <mainIngredient>Category_Milk</mainIngredient>
+    <ingredients></ingredients>
+    <mealRank>simple</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>BoiledEgg</defName>
+    <label>boiled /ingredient</label>
+    <priority>0</priority>
+    <mainIngredient>Category_Egg</mainIngredient>
+    <ingredients></ingredients>
+    <mealRank>simple</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  
+  <!--simple cook-->
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="PlantIngredientCategoryBase">
+    <defName>Category_SoupSimple</defName>
+    <ingredientsPartialMatch>
+      <li>Tomato</li>
+      <li>Pumpkin</li>
+      <li>Beets</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>Soup</defName>
+    <label>/ingredient soup</label>
+    <priority>100</priority>
+    <mainIngredient>Category_SoupSimple</mainIngredient>
+    <ingredients></ingredients>
+    <mealRank>simple</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="PlantIngredientCategoryBase">
+    <defName>Category_BakeSimple</defName>
+    <ingredientsPartialMatch>
+      <li>Corn</li>
+      <li>Potato</li>
+      <li>Onion</li>
+      <li>Apple</li>
+      <li>Eggplant</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>BakeSimple</defName>
+    <label>baked /ingredient</label>
+    <priority>100</priority>
+    <mainIngredient>Category_BakeSimple</mainIngredient>
+    <ingredients></ingredients>
+    <mealRank>simple</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.IngredientCategoryDef ParentName="PlantIngredientCategoryBase">
+    <defName>Category_BoilSimple</defName>
+    <ingredientsPartialMatch>
+      <li>Peas</li>
+      <li>Cabbage</li>
+    </ingredientsPartialMatch>
+  </WhatsTodaysMenu.IngredientCategoryDef>
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>BoilSimple</defName>
+    <label>boiled /ingredient</label>
+    <priority>100</priority>
+    <mainIngredient>Category_BoilSimple</mainIngredient>
+    <ingredients></ingredients>
+    <mealRank>simple</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  
+  <!--general-->
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>SoupMeat</defName>
+    <label>/ingredient soup</label>
+    <priority>-500</priority>
+    <mainIngredient>Category_MeatSingle</mainIngredient>
+    <ingredients>
+      <li>Category_VegetableAll</li>
+    </ingredients>
+    <mealRank>simple</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>SkewersMeat</defName>
+    <label>/ingredient skewers</label>
+    <priority>-1000</priority>
+    <mainIngredient>Category_MeatSingle</mainIngredient>
+    <ingredients></ingredients>
+    <mealRank>simple</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>SoupFungus</defName>
+    <label>/ingredient soup</label>
+    <priority>-500</priority>
+    <mainIngredient>Category_Fungus</mainIngredient>
+    <ingredients>
+      <li>Category_VegetableAll</li>
+    </ingredients>
+    <mealRank>simple</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>SkewersFungus</defName>
+    <label>/ingredient skewers</label>
+    <priority>-1000</priority>
+    <mainIngredient>Category_Fungus</mainIngredient>
+    <ingredients></ingredients>
+    <mealRank>simple</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>SoupFish</defName>
+    <label>/ingredient soup</label>
+    <priority>-500</priority>
+    <mainIngredient>Category_Fish</mainIngredient>
+    <ingredients>
+      <li>Category_VegetableAll</li>
+    </ingredients>
+    <mealRank>simple</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>SkewersFish</defName>
+    <label>/ingredient skewers</label>
+    <priority>-1000</priority>
+    <mainIngredient>Category_Fish</mainIngredient>
+    <ingredients></ingredients>
+    <mealRank>simple</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+  
+  <WhatsTodaysMenu.MenuPatternDef>
+    <defName>SoupVege</defName>
+    <label>/ingredient soup</label>
+    <priority>-1000</priority>
+    <mainIngredient>Category_VegetableAll</mainIngredient>
+    <ingredients></ingredients>
+    <mealRank>simple</mealRank>
+  </WhatsTodaysMenu.MenuPatternDef>
+</Defs>

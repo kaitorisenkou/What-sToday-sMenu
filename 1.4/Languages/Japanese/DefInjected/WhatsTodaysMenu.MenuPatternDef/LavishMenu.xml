@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Kastudon.label>カツ丼</Kastudon.label>
+  <Tonkatsu.label>とんかつ</Tonkatsu.label>
+  <CoqAuVin.label>コッコーヴァン</CoqAuVin.label>
+  <Winner.label>ドン勝</Winner.label>
+  <Lasagna.label>ラザニア</Lasagna.label>
+  <Cake.label>/ingredientケーキ</Cake.label>
+  <FruitYogurt.label>/ingredientヨーグルト</FruitYogurt.label>
+  <Pizza.label>ピザ</Pizza.label>
+  <SteakSetMeal.label>/ingredientステーキ定食</SteakSetMeal.label>
+  <Taco.label>タコス</Taco.label>
+  <Sushi.label>/ingredient寿司</Sushi.label>
+  <FruitMochi.label>/ingredient大福</FruitMochi.label>
+  <Steak.label>/ingredientステーキ</Steak.label>
+  <Loaf.label>ミートローフ</Loaf.label>
+  <Sashimi.label>/ingredientの刺身</Sashimi.label>
+  <RiceCake.label>餅</RiceCake.label>
+  <Popcorn.label>ポップコーン</Popcorn.label>
+  <PotatoChips.label>ポテトチップス</PotatoChips.label>
+  <MilkCandy.label>ミルクキャンディ</MilkCandy.label>
+  <RolledOmelette.label>だし巻き卵</RolledOmelette.label>
+  <FruitSalad.label>フルーツサラダ</FruitSalad.label>
+  <Salad.label>/ingredientサラダ</Salad.label>
+</LanguageData>
